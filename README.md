@@ -1,3 +1,3 @@
 # Projects
 
-This is a repository for proojects I work on.
+Tic-tac-toe Python functional Programming.
